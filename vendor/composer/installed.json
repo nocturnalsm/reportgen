@@ -1,0 +1,37 @@
+[
+    {
+        "name": "phpquery/phpquery",
+        "version": "0.0.2",
+        "version_normalized": "0.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/elboza/PhpQuery.git",
+            "reference": "9556e6d903b89796491caee53baac426c9850159"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/elboza/PhpQuery/zipball/9556e6d903b89796491caee53baac426c9850159",
+            "reference": "9556e6d903b89796491caee53baac426c9850159",
+            "shasum": ""
+        },
+        "time": "2019-08-08T19:13:26+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PhpQuery\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Beerware"
+        ],
+        "authors": [
+            {
+                "name": "Fernando Iazeolla",
+                "email": "fernando.iazeolla@gmail.com"
+            }
+        ],
+        "description": "jquery for php"
+    }
+]

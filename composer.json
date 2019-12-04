@@ -1,0 +1,15 @@
+{
+    "name": "ths/reportgen",
+    "description": "PHP Report Generator",
+    "type": "library",
+    "require": {
+        "phpquery/phpquery": "^0.0.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bambang Sugiarto",
+            "email": "basugi99@gmail.com"
+        }
+    ]
+}
